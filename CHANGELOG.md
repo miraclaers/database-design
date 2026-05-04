@@ -2,6 +2,20 @@
 
 All notable changes to `db-dumper` will be documented in this file
 
+## 4.1.1 - 2026-05-04
+
+### What's Changed
+
+* Bump dependabot/fetch-metadata from 2.5.0 to 3.0.0 by @dependabot[bot] in https://github.com/spatie/db-dumper/pull/244
+* Bump dependabot/fetch-metadata from 3.0.0 to 3.1.0 by @dependabot[bot] in https://github.com/spatie/db-dumper/pull/245
+* Fix grammar in DumpFailed exception message by @Warbs816 in https://github.com/spatie/db-dumper/pull/246
+
+### New Contributors
+
+* @Warbs816 made their first contribution in https://github.com/spatie/db-dumper/pull/246
+
+**Full Changelog**: https://github.com/spatie/db-dumper/compare/4.1.0...4.1.1
+
 ## 4.1.0 - 2026-03-19
 
 ### What's Changed
