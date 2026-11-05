@@ -412,5 +412,4 @@ class GzipCompressor implements Compressor
 ```bash
 $ composer test
 ```
-
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
